@@ -1,2 +1,2 @@
 # AI-Content-Generation
-A project that looks deeper into Code, Image, and Essay generation ai.
+A project that looks deeper into geberative Code, Image, and Essay AIs.
